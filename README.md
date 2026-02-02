@@ -12,9 +12,6 @@
 
 ---
 
-## 📋 Overview
-
-Production-ready persistence implementations demonstrating various Windows startup mechanisms.
 
 ## 🛠️ Techniques
 
@@ -77,23 +74,11 @@ Production-ready persistence implementations demonstrating various Windows start
 
 ---
 
-## 📊 Stats
-
-```
-Total Files: 15
-Languages: 10
-Techniques: 5
-Lines of Code: ~200
-```
-
-## ⚠️ Disclaimer
-
-Educational purposes only. Use responsibly.
+byeeee
 
 ---
 
 <div align="center">
 
-**[⭐ Star](https://github.com)** • **[🔱 Fork](https://github.com)** • **[📝 Issues](https://github.com)**
 
 </div>
